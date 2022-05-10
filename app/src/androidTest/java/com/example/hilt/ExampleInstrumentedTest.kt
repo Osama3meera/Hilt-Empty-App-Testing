@@ -1,4 +1,4 @@
-package com.example.hiltexamplemitch
+package com.example.hilt
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
